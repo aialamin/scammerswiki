@@ -1,0 +1,6 @@
+{
+  "name": "ScamAlert BD",
+  "description": "Stop. Search. Stay Safe. Bangladesh's premier scam reporting, merchant verification, and fraud detection platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
